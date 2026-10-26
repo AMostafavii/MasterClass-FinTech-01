@@ -1,4 +1,4 @@
-# Part FinTech MasterClass
+# MasterClass-FinTech
 
 This repository contains some practical Python data-analysis exercises. The notebooks introduce numerical computing, data cleaning, exploratory analysis, visualization, and business metrics using `NumPy`, `Pandas`, and `Matplotlib`.
 
